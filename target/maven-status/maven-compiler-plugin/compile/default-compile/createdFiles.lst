@@ -1,6 +1,7 @@
-com\rizalpurnama\webnoframework\dao\PerusahaanDao.class
 com\rizalpurnama\webnoframework\domain\KotaKabupaten.class
-com\rizalpurnama\webnoframework\domain\Provinsi.class
 com\rizalpurnama\webnoframework\domain\Perusahaan.class
-com\rizalpurnama\webnoframework\domain\User.class
 com\rizalpurnama\webnoframework\AplikasiWebNoFramework.class
+com\rizalpurnama\webnoframework\dao\PerusahaanDao.class
+com\rizalpurnama\webnoframework\servlet\DaftarPerusahaan.class
+com\rizalpurnama\webnoframework\domain\Provinsi.class
+com\rizalpurnama\webnoframework\domain\User.class
